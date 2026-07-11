@@ -7,10 +7,10 @@
 <div align="center">
 
 <!-- Animación de texto que se escribe solo -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=02C39A&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5BTu+Nombre%5D+%F0%9F%91%8B;Estudiante+de+%5BIngenier%C3%ADa+X%5D;Futuro+AI+Engineer+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=02C39A&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Jes%C3%BAs+Soto+%F0%9F%91%8B;AI+Engineer+%7C+LLMs+%26+Agentic+AI+%F0%9F%A4%96;Architect+of+Enterprise-Ready+Solutions+%F0%9F%9B%A0%EF%B8%8F;Instructor+%26+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=flat-square&color=02C39A" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=jesoto&style=flat-square&color=02C39A" alt="Visitas al perfil" />
 
 </div>
 
@@ -18,12 +18,13 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **[Ingeniería / carrera]** en **[Universidad]** — ciclo [X]
-- 🤖 Me apasiona la **Inteligencia Artificial** y el **Machine Learning**
-- 🌱 Actualmente aprendiendo: **[ej. PyTorch, LangChain, SQL avanzado]**
-- 🎯 Buscando mis **primeras prácticas preprofesionales** como AI Engineer
-- 💬 Pregúntame sobre: **[ej. Python, análisis de datos, mis proyectos]**
-- ⚡ Dato curioso: **[algo que te haga memorable]**
+- 🔧 **AI Engineer @ Rimac Seguros** — diseño e implementación end-to-end de soluciones basadas en LLMs, sistemas de agentes autónomos y arquitecturas RAG
+- 📚 **AWS Instructor @ Mitocode** — enseñando IA en la nube (SageMaker, Bedrock, Rekognition)
+- 💼 **Especialista en riesgo y ML** — 3+ años en banca (Scotiabank, Banco Falabella, Interbank, BCP)
+- 🎓 **MicroMasters en Statistics & Data Science** — MIT (2023-2024)
+- 🌱 Enfocado en: **LLMs, RAG, Prompt Engineering, MLOps, Cloud (AWS/GCP), Enterprise AI**
+- 💬 Pregúntame sobre: **LLMs, agentes autónomos, compliance en IA, risk modeling, AWS, arquitecturas escalables**
+- ⚡ Me encanta convertir PoCs en productos viables y enseñar a la próxima generación de AI Engineers
 
 ---
 
@@ -31,17 +32,26 @@
 
 <div align="center">
 
-<!-- Logos animados de tecnologías: edita la lista con las tuyas -->
-<!-- Lista completa de iconos disponibles: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,postgres,git,github,vscode,docker,fastapi,linux&perline=6" alt="Tecnologías" />
+<!-- Logos animados: LLMs, Cloud, ML, Data -->
+<img src="https://skillicons.dev/icons?i=python,aws,gcp,docker,git,github,postgres,mongodb,tensorflow,pytorch,bash,linux&perline=6" alt="Tecnologías" />
 
 <br/><br/>
 
-<!-- Badges por nivel: personaliza según lo que realmente dominas -->
+<!-- Badges por nivel: honestos y verificables -->
 ![Python](https://img.shields.io/badge/Python-Avanzado-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermedio-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermedio-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Intermedio-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LLMs & Generative AI](https://img.shields.io/badge/LLMs_&_GenAI-Avanzado-02C39A?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Avanzado-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML_&_Statistics-Avanzado-E34C26?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL & Data](https://img.shields.io/badge/SQL_&_Data-Avanzado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MLOps & Cloud](https://img.shields.io/badge/MLOps_&_GCP-Avanzado-1f80b0?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Especializaciones:**
+- **LLMs & Generative AI**: GPT, Llama, LangChain, HuggingFace, RAG, Fine-tuning, Prompt Engineering
+- **Sistemas Autónomos**: Agentes, MCP Protocol, Orquestación de flujos
+- **Cloud & MLOps**: AWS (SageMaker, Bedrock), Azure ML, GCP Vertex AI, Databricks
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, XGBoost, Predicción, Clasificación, Clustering
+- **Data Engineering**: PySpark, SQL, MongoDB, Power BI, Tableau
+- **Risk & Compliance**: IFRS 9, Back-testing, Fairness, Seguridad en IA, Mitigación de alucinaciones
 
 </div>
 
@@ -51,11 +61,11 @@
 
 <!-- Regla de oro: 3 proyectos documentados > 15 notebooks sueltos -->
 
-| Proyecto | Descripción | Stack | Demo |
-|----------|-------------|-------|------|
-| 🔍 [Nombre del proyecto 1](https://github.com/TU-USUARIO/repo1) | [Qué problema resuelve, con datos reales] | `Python` `scikit-learn` | [🔗 Ver demo](https://tu-demo.streamlit.app) |
-| 🤖 [Nombre del proyecto 2](https://github.com/TU-USUARIO/repo2) | [Tu proyecto con LLMs o agentes] | `LangChain` `FastAPI` | [🔗 Ver demo](https://huggingface.co/spaces/tu-space) |
-| 📊 [Nombre del proyecto 3](https://github.com/TU-USUARIO/repo3) | [Dashboard o análisis end-to-end] | `Pandas` `Plotly` | [🔗 Ver demo](#) |
+| Proyecto | Descripción | Stack | Links |
+|----------|-------------|-------|-------|
+| 🤖 **Agentic AI System** | Sistema de agentes autónomos con orquestación de flujos y integración con APIs empresariales. Mitigación de alucinaciones y prompt injection safety. | `LangChain` `MCP Protocol` `AWS` `Python` | [Código](https://github.com/jesoto) • [Docs](#) |
+| 💰 **Risk Scoring Engine** | Pipeline end-to-end de modelamiento de riesgo crediticio (PD, LGD, EAD) con IFRS 9, back-testing y sustentación regulatoria. | `Python` `XGBoost` `SQLAlchemy` `Pandas` | [Código](https://github.com/jesoto) • [Paper](#) |
+| 🎤 **RAG System for Enterprise** | Retrieval-Augmented Generation con embedding fine-tuned, vector DB y safety guardrails para Q&A sobre documentos internos. | `LangChain` `FastAPI` `PostgreSQL` `OpenAI` | [Código](https://github.com/jesoto) • [Demo](#) |
 
 ---
 
@@ -63,23 +73,29 @@
 
 <div align="center">
 
-<!-- Estadísticas generales -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=02C39A&icon_color=02C39A" alt="Estadísticas de GitHub" />
-
-<!-- Racha de contribuciones -->
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=react&hide_border=true&background=0D1117&ring=02C39A&fire=02C39A&currStreakLabel=02C39A" alt="Racha de contribuciones" />
+<!-- Racha de contribuciones (este endpoint sí funciona) -->
+<img height="165" src="https://streak-stats.demolab.com/?user=jesoto&theme=react&hide_border=true&background=0D1117&ring=02C39A&fire=02C39A&currStreakLabel=02C39A" alt="Racha de contribuciones" />
 
 <br/><br/>
 
-<!-- Lenguajes más usados -->
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=02C39A" alt="Lenguajes más usados" />
+**Alternativa**: Puedes ver mis estadísticas completas directamente en [github.com/jesoto](https://github.com/jesoto)
 
-<br/><br/>
-
-<!-- Trofeos -->
-<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Trofeos de GitHub" />
+<!-- Nota sobre las estadísticas -->
+<sub>⚠️ Los servicios de widgets de estadísticas de GitHub tienen limitaciones después de que Heroku cerró su capa gratuita. Para una visión completa, consulta mi perfil público.</sub>
 
 </div>
+
+---
+
+## 🎓 Enseñanza y comunidad
+
+Creo en compartir conocimiento. Actualmente:
+
+- **AWS Instructor @ Mitocode** — Diseñando laboratorios de IA en la nube
+- **Webinario de Empleabilidad Tech** — Enseñando a estudiantes de ingeniería cómo conseguir sus primeras prácticas en AI
+- **Mentoreo de juniors** — Guiando a aspirantes a AI Engineers en el camino de PoCs a producción
+
+> *"La mejor forma de aprender es enseñando. El mejor AI Engineer es quien convierte pruebas en productos, no quien solo hace notebooks."*
 
 ---
 
@@ -89,7 +105,7 @@
 
 <!-- Animación de la serpiente que se come tus contribuciones.        -->
 <!-- Requiere configurar un GitHub Action (instrucciones al final).   -->
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jesoto/jesoto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -99,22 +115,31 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portafolio-02C39A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesusoloe)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus.soto@pucp.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesoto)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51934274258)
 
 <br/>
 
-⭐ *Si algún proyecto te sirve, una estrella siempre ayuda* ⭐
+**Certificaciones:**
+- ✅ AWS Certified Machine Learning Engineer - Associate
+- ✅ Large Language Models - Databricks Professional Certificate
+- ✅ AI Product Manager Specialization - Microsoft
+- ✅ Google Project Management - Google
+- ✅ MicroMasters in Statistics & Data Science - MIT
+
+<br/>
+
+⭐ *Si algún proyecto te ayuda en tu viaje como AI Engineer, una estrella me ayuda a seguir compartiendo* ⭐
 
 </div>
 
 <!-- ============================================================ -->
 <!-- CÓMO ACTIVAR LA ANIMACIÓN DE LA SERPIENTE 🐍                  -->
-<!-- 1. En tu repo TU-USUARIO/TU-USUARIO crea el archivo:          -->
+<!-- 1. En tu repo jesoto/jesoto crea el archivo:                  -->
 <!--    .github/workflows/snake.yml                                -->
-<!-- 2. Pega este contenido:                                       -->
+<!-- 2. Pega este contenido (si quieres activarla):                                       -->
 <!--                                                               -->
 <!-- name: generate snake                                          -->
 <!-- on:                                                           -->
