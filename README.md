@@ -80,8 +80,6 @@
 
 **Alternativa**: Puedes ver mis estadísticas completas directamente en [github.com/jesoto](https://github.com/jesoto)
 
-<!-- Nota sobre las estadísticas -->
-<sub>⚠️ Los servicios de widgets de estadísticas de GitHub tienen limitaciones después de que Heroku cerró su capa gratuita. Para una visión completa, consulta mi perfil público.</sub>
 
 </div>
 
@@ -99,15 +97,7 @@ Creo en compartir conocimiento. Actualmente:
 
 ---
 
-## 🐍 Contribuciones
 
-<div align="center">
-
-<!-- Animación de la serpiente que se come tus contribuciones.        -->
-<!-- Requiere configurar un GitHub Action (instrucciones al final).   -->
-<img src="https://raw.githubusercontent.com/jesoto/jesoto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
